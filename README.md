@@ -1,7 +1,7 @@
 
 # Launch Project
 
-For launch this project, you should clone repository to your own directory, and get following commands:
+For launch this project, you should clone repository to your own directory, and enter in console the following commands:
 
 ```js
 npm install
