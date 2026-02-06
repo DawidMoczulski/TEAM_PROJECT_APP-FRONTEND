@@ -16,6 +16,8 @@ npm install -D tailwindcss@3
 npm install @microsoft/signalr
 ```
 
+Remember that you need clone and install backend layer too, in the other way, any progress in login or create account won't work.
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
