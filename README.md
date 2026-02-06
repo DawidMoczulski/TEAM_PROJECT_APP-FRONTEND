@@ -1,3 +1,21 @@
+
+# Launch Project
+
+For launch this project, you should clone repository to your own directory, and get following commands:
+
+```js
+npm install
+```
+```js
+maptiler-engine
+```
+```js
+npm install -D tailwindcss@3
+```
+```js
+npm install @microsoft/signalr
+```
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
